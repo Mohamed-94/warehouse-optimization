@@ -1,22 +1,32 @@
 # Warehouse Optimization
+<br>
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#usage & prerequisities">Usage & Prerequisities</a> •
-  <a href="#install dependencies">Install Dependencies</a> •
+<br>
+  <a href="#usage-&-prerequisities">Usage & Prerequisities</a> •
+  <br>
+  <a href="#install-dependencies">Install Dependencies</a> •
+  <br>
   <a href="#run">Run</a> •
+  <br>
   <a href="#api">API/a> •
+    <br>
   <a href="#license">License</a>
 </p>
-
+<br>
 ##About
+  <br>
 This project is a Spring application for a Supply Chain warehouse optimization and management.
 Warehouse Optimization is a REST API based and designed with M ~V~ C of spring boot's starter.
+  <br>
 -Views are not done yet .
- *Notice: Due to slow internet connection, the source code has not yet been uploaded!
+  <br>
 To get you started you can simply clone the `warehouse-optimization` repository and install the dependencies(You can quickly look at pom.xml)
+  <br>
+ *Notice: Due to slow internet connection, the source code has not yet been uploaded!
 
-
+<br>
 ## Usage & Prerequisites
 
 To clone and edit this application you will need [git](https://git-scm.com/) and [SpringBoot](https://projects.spring.io/spring-boot/)
@@ -59,8 +69,8 @@ First generate a token with the following command:
 ```bash
 curl testjwtclientid:XY7kmzoNzl100@localhost:8080/oauth/token -d grant_type=password -d username=user -d password=jwtpass
 ```
-
-##Licence
+<br>
+## Licence
 
 Apache 2.0
 
