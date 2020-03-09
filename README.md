@@ -13,7 +13,7 @@
 This project is a Spring application for a Supply Chain warehouse optimization and management.
 Warehouse Optimization is a REST API based and designed with M ~V~ C of spring boot's starter.
 -Views are not done yet .
- 
+ *Notice: Due to slow internet connection, the source code has not yet been uploaded!
 To get you started you can simply clone the `warehouse-optimization` repository and install the dependencies(You can quickly look at pom.xml)
 
 
@@ -29,7 +29,7 @@ You will also need [Java™ SE Development Kit 8](http://www.oracle.com/technetw
 Clone the `warehouse-optimization` repository using git:
 
 ```bash
-git clone https://github.com/Mohamed94/warehouse-optimization
+git clone https://github.com/Mohamed-94/warehouse-optimization
 # Go into it
 cd warehouse-optimization
 
