@@ -15,19 +15,20 @@
   <a href="#license">License</a>
 </p>
 <br>
-##About
+  *Notice: Due to slow internet connection, the source code has not yet been uploaded!
+  <br>
+# About
   <br>
 This project is a Spring application for a Supply Chain warehouse optimization and management.
 Warehouse Optimization is a REST API based and designed with M ~V~ C of spring boot's starter.
   <br>
 -Views are not done yet .
   <br>
-To get you started you can simply clone the `warehouse-optimization` repository and install the dependencies(You can quickly look at pom.xml)
+To get you started you can simply clone the `warehouse-optimization` repository and install the dependencies(You can quickly look at [pom.xml](https://github.com/Mohamed94/warehouse-optimization/pom.xml)
   <br>
- *Notice: Due to slow internet connection, the source code has not yet been uploaded!
 
 <br>
-## Usage & Prerequisites
+# Usage & Prerequisites
 
 To clone and edit this application you will need [git](https://git-scm.com/) and [SpringBoot](https://projects.spring.io/spring-boot/)
 
@@ -45,7 +46,7 @@ cd warehouse-optimization
 
 ```
 
-### Install Dependencies
+# Install Dependencies
 
 In order to install the dependencies and generate the Uber jar you must run:
 
@@ -53,14 +54,15 @@ In order to install the dependencies and generate the Uber jar you must run:
 mvn clean install
 ```
 
-### Run
+# Run
  
 ```bash
 
 java -jar target/warehouse-optimization-1.0.jar
 ```
 
-## API
+# API
+<br>
 
 Considering the REST API you will find the swagger UI at http://localhost:8080/swagger-ui.html
 
@@ -70,8 +72,9 @@ First generate a token with the following command:
 curl testjwtclientid:XY7kmzoNzl100@localhost:8080/oauth/token -d grant_type=password -d username=user -d password=jwtpass
 ```
 <br>
-## Licence
 
+# Licence
+<br>
 Apache 2.0
-
+<br>
 > GitHub [@Mohamed-94](https://github.com/Mohamed-94) &nbsp;&middot;&nbsp;
