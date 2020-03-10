@@ -27,7 +27,7 @@ Warehouse Optimization is a REST API based and designed with M ~V~ C of spring b
 -Views are not done yet .
   <br>
   
-To get you started you can simply clone the `warehouse-optimization` repository and install the dependencies - You can quickly look at [pom.xml](https://github.com/Mohamed94/warehouse-optimization/pom.xml)
+To get you started you can simply clone the `warehouse-optimization` repository and install the dependencies ( You can quickly look at [pom.xml](https://github.com/Mohamed94/warehouse-optimization/pom.xml))
 
 <br>
 
@@ -37,7 +37,8 @@ To clone and edit this application you will need [git](https://git-scm.com/) and
 
 You will also need [Java™ SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads) and [Maven](https://maven.apache.org/download.cgi).
 <br>
--IDE used: [STS4](https://spring.io/tools)/[Eclipse EE](https://www.eclipse.org/downloads/packages/release/kepler/sr2/eclipse-ide-java-ee-developers) with [STS](https://spring.io/tools) plugin
+
+IDEs used: [STS4](https://spring.io/tools)/[Eclipse EE](https://www.eclipse.org/downloads/packages/release/kepler/sr2/eclipse-ide-java-ee-developers) with [STS](https://spring.io/tools) plugin
 
 
 Clone the `warehouse-optimization` repository using git:
@@ -78,7 +79,6 @@ curl testjwtclientid:XY7kmzoNzl100@localhost:8080/oauth/token -d grant_type=pass
 
 ## Licence
 
-<br>
 Apache 2.0
 <br>
 <br>
