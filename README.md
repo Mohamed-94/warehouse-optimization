@@ -17,19 +17,15 @@
 <br>
   
 ## About
-
-  <br>
   
 This project is a Spring application for a Supply Chain warehouse optimization and management.
-Warehouse Optimization is a REST API based and designed with M ~V~ C of spring boot's starter.
 
-  <br>
--Views are not done yet .
-  <br>
+Warehouse Optimization is a REST API based and designed with M ~V~ C of spring boot's starter.
+ 
+*Note: Views are not done yet .
   
 To get you started you can simply clone the `warehouse-optimization` repository and install the dependencies ( You can quickly look at [pom.xml](https://github.com/Mohamed94/warehouse-optimization/pom.xml))
 
-<br>
 
 ## Usage & Prerequisites
 
