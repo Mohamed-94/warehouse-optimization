@@ -37,8 +37,6 @@ You will also need [Java™ SE Development Kit 8](http://www.oracle.com/technetw
 IDEs used: [STS4](https://spring.io/tools)/[Eclipse EE](https://www.eclipse.org/downloads/packages/release/kepler/sr2/eclipse-ide-java-ee-developers) with [STS](https://spring.io/tools) plugin
 
 
-Clone the `warehouse-optimization` repository using git:
-
 ```bash
 git clone https://github.com/Mohamed-94/warehouse-optimization
 # Go into it
@@ -48,7 +46,6 @@ cd warehouse-optimization
 
 ## Install Dependencies
 
-In order to install the dependencies and generate the Uber jar you must run:
 
 ```bash
 mvn clean install
